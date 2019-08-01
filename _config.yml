@@ -29,8 +29,8 @@ navbar-links:
   Assignments: 
     - Overview and Grading: "assignments"
     - Fieldbook: "assignments/fieldbook"
-    - Minor Text Projects: "assignments/minor-text-projects"
-    - Final Book Project: "assignments/final-book-project"
+    - Book Report: "assignments/book-report/"
+    - Semester Book Project: "assignments/book-project/"
   News: "news"
 
 
