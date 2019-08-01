@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class Schedule
-bigimg: /img/32004918513_48fc6589d4_c.jpg
+bigimg: /img/letterpress.jpg
 ---
 
 ## Accessing Readings

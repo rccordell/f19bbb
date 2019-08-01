@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semester Book Project
-bigimg: /img/5713183928_a6b06c65e6_o.jpg
+bigimg: /img/IMG_9629.jpg
 ---
 
 The central work of this class will be an original book project you will conceive, develop, and produce over the course of the semester. As we will see in our readings and other investigations, the word "book" can mean many things. Your projects can likewise take many forms and include a range of media: e.g. a letterpress chapbook, a zine, an altered book, an interactive digital book, or something else. I strongly encourage you to develop a book project that blends at least two of the media we will discuss together, but you could do more, and you might choose to use a medium we do not cover in class. 

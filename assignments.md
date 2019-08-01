@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Assignments
-bigimg: /img/VictoriaPress-banner.jpg
+bigimg: /img/France_in_XXI_Century._School.jpg
 ---
 
 # Overview of Assignments
