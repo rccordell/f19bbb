@@ -4,13 +4,13 @@ title: Course Assignments
 bigimg: /img/VictoriaPress-banner.jpg
 ---
 
-## Overview of Assignments
+# Overview of Assignments
 
 Your work in "Building a (Better) Book" will happen across these major assignments:
 
-+ Fieldbook
-+ Minor Text Projects
-+ Major Book Project 
++ [Fieldbook](/assignments/fieldbook/)
++ [Book Report](/assignments/book-report/)
++ [Semester Book Project](/assignments/book-project)
     + Proposal
     + Prototype
     + Book

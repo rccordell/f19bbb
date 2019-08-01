@@ -1,48 +1,137 @@
 ---
 layout: page
 title: Class Schedule
-bigimg: /img/?.jpg
+bigimg: /img/32004918513_48fc6589d4_c.jpg
 ---
 
 ## Accessing Readings
 
 The majority of our readings will be available online or through [a digital course packet in Leganto](). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
 
+## Weekly Structure
+
+With a few marked exceptions, the readings on the schedule below should be prepared for the first class of their respective week, which is generally a Monday. This is a studio-based course, and most weeks will be structured like so:
+
+Mondays: discussion of readings
+Wednesdays: applied instruction in a particular book technology
+Thursdays: work in studio
+
+This pace will vary a bit as the semester progresses, with both Wednesday and Thursday being devoted to studio time as final project deadlines approach. 
+
+
+## Studio Class Sessions
+
+Our studio class sessions are intended to give you time to experiment with the book technologies introduced throughout the semester and to make substantive progress toward your final project. Studio classes are not optional. During studio classes—and particularly during the second half of the semester when projects are well underway—students will occasionally be asked to share what they are working on with the class for discussion and comment. 
+
 -----
 
-## Week 1: September 4 & 5
+## Week 1 &#10087; September 4 & 5 &#10087; Introductions
 
-## Week 2: September 9, 11, 12
+Readings:
 
-## Week 3: September 16, 18, 19
++ Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
++ Josephine Livingston, ["What Do Our Oldest Books Say About Us?"](https://newrepublic.com/article/152111/oldest-books-say-us) (2018)
 
-## Week 4: September 23, 25, 26
+## Week 2 &#10087; September 9, 11, 12 &#10087; What Is a Book?
 
-## Week 5: September 30, October 2, 3
+Readings:
 
-## Week 6: October 7, 9, 10
++ Amaranth Borsuk, *The Book* (2018)
 
-## Week 7: October 16 & 17
+Visit: NU Archives and Special Collections
+
+## Week 3 &#10087; September 16, 18, 19 &#10087; Print I
+
+**Visit to NU Archives on 9/18**
+
+Readings:
+
++ (Watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2008) *Note: This video is about 1 hour long; plan accordingly!*
++ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II) or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9081705360001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
++ (Watch) [“Printing”](https://youtu.be/bPCiWiLu-W4) vocational film (1947) and [“Learning to Set Type”](https://youtu.be/AHrLIVeH1KM) vocational film (1940s)
++ Beth Driscoll and Claire Squires, ["'Oh Look, a Ferry'; or the Smell of Printed Books"](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
+
+## Week 4 &#10087; September 23, 25, 26 &#10087; Print II
+
+Readings:
+
++ Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
++ Lindsay Lynch, ["How I Came to Love the En Space"](http://www.theatlantic.com/technology/archive/2016/09/how-i-came-to-love-the-en-space/499337/) (2016)
++ Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
++ Amy Papaelias, ["Best Practices: Teaching Typographic Principles to Digital Humanities Audiences"](http://www.digitalhumanities.org/dhq/vol/12/4/000405/000405.html) (2018)
+
+Visit: Massachusetts Historical Society
+
+## Week 5 &#10087; September 30, October 2, 3 &#10087; Zines
+
+**Guest Lecturers from NU Libraries**
+
+Readings: 
+
++ Pagan Kennedy, from *'Zine* (1995)
++ [Zine Librarians Code of Ethics](https://zinelibraries.info/code-of-ethics/) (2015)
+
+## Week 6 &#10087; October 7, 9, 10 &#10087; Binding
+
+Readings: 
+
++ (Watch) Russell Maret, ["Hiccups, Trip-ups & Total Disasters: Thoughts on Making Books"](https://www.youtube.com/watch?v=7uGrTOwUg0U&app=desktop)
++ Ricardo Dantas, ["How to Design an Awarded Letterpress Printed Book"](https://medium.com/swlh/design-process-production-of-an-awarded-letterpressed-book-733d4627966a) (2019)
+
+## Week 7 &#10087; October 16 & 17 &#10087; Book Reports
 
 No class October 12: Indigenous Peoples Day
 
-## Week 8: October 21, 23, 24
+Students will present their [book reports](/assignments/book-reports/) this week. We will sign up for particular days a few weeks ahead of time.
 
-## Week 9: October 28, 30, 31
+## Week 8 &#10087; October 21, 23, 24 &#10087; E-lit I
 
-## Week 10: November 4, 6, 7
++ bpNichol, ["First Screening"](http://vispo.com/bp/index.htm) (1984)
++ read about "Agrippa" (1992) at ["The Agrippa Files"](http://agrippa.english.ucsb.edu/)
++ Amaranth Borsuk, Jesper Juul, and Nick Montfort, [“The Deletionist”](http://thedeletionist.com/) (2013)
++ J. R. Carpenter, ["etheric ocean"](http://luckysoap.com/ethericocean/) (2014)
++ Porpentine, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
 
-## Week 11: November 13 & 14
+## Week 9 &#10087; October 28, 30, 31 &#10087; E-lit II
+
++  Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
++  (Browse) [*Traces*](http://openthresholds.org/home)
+
+## Week 10 &#10087; November 4, 6, 7 &#10087; Future Books
+
+Readings: 
+
++ Ulises Carrión, ["The New Art of Making Books"](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf) (1975)
++ Christian Bök, ["The Xenotext Works](https://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works) (2011) & Joshua Schuster, ["On Reading Christian Bök's 'The Xenotext: Book 1' Ten Thousand Years Later"](https://jacket2.org/reviews/reading-christian-boks-xenotext-book-1-ten-thousand-years-later) (2016)
++ Craig Mod, ["The 'Future Book' is Here, but It's Not What We Expected"](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (2018)
+
+## Week 11 &#10087; November 13 & 14 &#10087; 3D Printing I
 
 No class November 11: Veterans' Day
 
-## Week 12: November 18, 20, 21
+Readings: 
 
-## Week 13: November 25
++ TBA
++ Courtney Jacobs, Marcia McIntosh, Kevin M. O’Sullivan, ["Making Book History: Engaging Maker Culture and 3D Technologies to Extend Bibliographical Pedagogy"](https://rbm.acrl.org/index.php/rbm/article/view/16984) (2018)
+
+Visit: Snell Library 3D Printing Studio
+
+## Week 12 &#10087; November 18, 20, 21 &#10087; Fabrication
+
+Readings: 
+
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, [“Bibliocircuitry and the Design of the Alien Everyday”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
++ Jentery Sayers, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, [“Between Bits and Atoms: Physical Computing and Desktop Fabrication in the Humanities”] (2015)
+
+## Week 13 &#10087; November 25 &#10087; Studio
+
+Studio Time
 
 No class November 27-29; Thanksgiving
 
-## Week 14: December 2 & 4
+## Week 14 &#10087; December 2 & 4 &#10087; Final Exercises
+
+Final project presentations
 
 
 
@@ -53,290 +142,23 @@ No class November 27-29; Thanksgiving
 
 
 
-
-# January 9: Medium
-
-## Core:
-
-+ Marshall McLuhan, ["The Medium is the Message"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893990860001401?auth=SAML) (1964)
-+ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892858620001401?auth=SAML) (MIT Press, 2006)
-+ Alan Liu, ["Imagining the New Media Encounter"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) (2008)
-+ N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892776320001401?auth=SAML) (2013)
-
-## Penumbra:
-
-+ N. Katherine Hayles, "Media and Materiality" and "Material Metaphors, Technotexts, and Media-Specific Analysis" from [*Writing Machines*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892838240001401?auth=SAML) (2002)  
-+ Tara Brabazon, ["Dead Media: Obsolescence and Redundancy in Media History"](https://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701) (2013)
-+ Mark Alan Mattes, ["Media"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893988920001401?auth=SAML) (2018)
-
-### [Lab 1: Mark(it all)down](/labs/Lab1-Markdown/)
-
------ 
-
-# January 16: Format
-
-## Core: 
 
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/) (1894)
-+ (Watch) Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (1978, about 30 minutes)
-+ Amaranth Borsuk, "The Book as Object" from *The Book* (2018)
-+ Meredith L. McGill, ["Format"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991110001401?auth=SAML) (2018)
-
-## Penumbra:
-
-+ Jane Austen, Letters to her sister Cassandra (these are in order so you can read down from the first link to the next two letters):
-    + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
-    + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
-    + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
-+ 19th-Century Commentaries on Novel Reading:
-    + ["On Novel Reading"](http://www.merrycoz.org/books/NOVELS01.xhtml) (from *The Guardian; or Youth’s Religious Instructor*, 1820)
-    + ["Devouring Books"](http://www.merrycoz.org/books/DEVOURNG.xhtml) (from the *American Annals of Education*, 1835)
-    + M.M. Backus, ["Novel Writers and Publishers"](http://www.merrycoz.org/books/PARLOR.xhtml) (from *Christian Parlor Magazine*, 1844)
-+ Wendy Hui Kong Chun, ["The Enduring Ephemeral, or the Future is a Memory"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991600001401?auth=SAML) (2008)
-+ Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from [*Racing the Beam: The Atari Video Computer System*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991780001401?auth=SAML) (2009)
-+ Jonathan Sterne, "Format Theory" from [*MP3: The Meaning of a Format*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991830001401?auth=SAML) (2012)
-
-### [Lab 2: Illuminating the Book](/labs/Lab2-Illuminating/)
-
------ 
-
-# January 23: Book
-
-**Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)**
-
-## Core:
-
 + Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)
-+ Robert Darnton, ["What is the History of Books? Revisited"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892823240001401?auth=SAML) (2007)
-+ Leah Price, "Introduction" and "Reader's Block" from [*How to Do Things with Books in Victorian Britain*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992870001401?auth=SAML) (2012)
-+ Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
-
-## Penumbra:
-
-+ Robert Darnton, ["What is the History of Books?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892825030001401?auth=SAML) (1982)
-+ Leah Price, ["From The History of the Book to a 'History of the Book'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892823930001401?auth=SAML) (2009)
-+ Jessica Pressman, ["The Aesthetic of Bookishness in Twenty-First Century Literature"](http://hdl.handle.net/2027/spo.act2080.0048.402) (2009)
-+ Patricia Crain, "Reading Childishly? A Codicology of the Modern Self" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993570001401?auth=SAML) (2013)
-+ Matthew Kirschenbaum and Sarah Werner, ["Digital Scholarship and Digital Studies: the State of the Discipline"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993700001401?auth=SAML) (2014)
-
-### [Lab 3: Into the Archives/Thinking with the Codex](/labs/Lab3-Archive/)
-
------
-
-# January 30: Page
-
-## Core: 
-
-+ Herman Melville, "The Paradise of Bachelors and the Tartarus of Maids" in [*Herman Melville: the Dover Reader*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993980001401?auth=SAML) (1855)
-+ Bonnie Mak, "Architectures of the Page" from [*How the Page Matters*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994230001401?auth=SAML) (2012)
-+ Jonathan Senchyne, ["Paper Nationalism: Material Textuality and Communal Affiliation in Early America"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994370001401?auth=SAML) (2017)
-
-## Penumbra:
-
-+ Lisa Gitelman, "Preface," "A Short History of __________," and/or "Near Print and Beyond Paper: Knowing by \*.pdf" from [*Paper Knowledge: Toward a Media History of Documents*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994470001401?auth=SAML) (2014)
 + Jonathan Senchyne, ["Rags Make Paper, Paper Makes Money: Material Texts and Metaphors of Capital"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994560001401?auth=SAML) (2017)
-
-### Dead Media Poster Presentations
-
------
-
-# February 6: Press
-
-## Core:
-
-+ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II) or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9081705360001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
-+ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996790001401?auth=SAML) (2013)
-+ Amaranth Borsuk, "The Book as Content" from *The Book* (2018)
-+ Marcy J. Dinius, ["Press"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994710001401?auth=SAML) (2018)
-
-## Penumbra
-
-+ Elizabeth Eisenstein, ["An Unacknowledged Revolution Revisited"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994820001401?auth=SAML) (2002)
-+ (Watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2008) *Note: This video is about 1 hour long; plan accordingly!*
-+ Ann Blair, "Introduction" from [*Too Much To Know*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996330001401?auth=SAML) (2011)
 + Elyse Graham, ["The Printing Press as Metaphor"](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html) (2016)
-+ Matthew P. Brown, ["Blanks: Data, Method, and the British American Print Shop"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893997900001401?auth=SAML) (2017)
-
-### Lab 4: Letterpress I
-
------
-
-# February 12 (6-9pm): Type
-
-**Note the different meeting day/time this week.**
-
-## Core:
-
 + Articles about the [Victoria Press](https://en.wikipedia.org/wiki/Victoria_Press)
   + M. M. H., ["A Ramble with Mrs. Grundy: A Visit to the Victoria Printing Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009460001401?auth=SAML) (1860)
   + ["The Victoria Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009510001401?auth=SAML) *Illustrated London News* (15 June 1861)
   + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009560001401?auth=SAML) *English Woman's Journal* (1861)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
-+ Matthew G. Kirschenbaum, "Introduction: It Is Known" and "Word Processing as a Literary Subject" from [*Track Changes: a Literary History of Word Processing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9090062070001401?auth=SAML) (2016)
-
-## Penumbra:
-
 + ["Printing" vocational film](https://youtu.be/bPCiWiLu-W4) (1947) and ["Learning to Set Type" vocational film](https://youtu.be/AHrLIVeH1KM) (1940s)
-+ Donald F. McKenzie, ["Printers of the Mind: Some Notes on Bibliographical Theories and Printing-House Practices"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009710001401?auth=SAML) (1969)
-+ Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009840001401?auth=SAML) (2011)
-+ Andrew Piper, ["Deleafing: The History and Future of Losing Print"](http://www.enl.auth.gr/gramma/gramma13/2.pdf) (2013)
-+ Joshua Ratner, ["Paratexts"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894012090001401?auth=SAML) (2018)
-+ Blog posts from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series.
-
-###  [Lab 5: Letterpress II](/labs/Lab5-LetterpressII/)
-
------
-
-# February 20: Assemblage
-
-*Note: Professor Cordell away: virtual class; no lab*
-
-## Core: 
-
-+ Ellen Gruber Garvey, "Introduction" from [*Writing with Scissors*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894014870001401?auth=SAML) (2012)
-+ Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from [*Early African American Print Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015010001401?auth=SAML) (2012)
-+ Browse at least 2 of the scrapbooks below:
-     + [Frederick Douglass's Scrapbook](http://memory.loc.gov/cgi-bin/ampage)
-     + [Scrapbook about Frederick Douglass](http://www.libraryweb.org/~digitized/scrapbooks/rsc00001color.pdf)
-    + [Miller NAWSA Suffrage Scrapbooks, 1897-1911](http://memory.loc.gov/ammem/collections/suffrage/millerscrapbooks/index.html) (click on the links under "Browse This Collection" to find the books)
-    + [Benjamin "Pap" Singleton scrapbook](http://www.kansasmemory.org/item/display.php?item_id=211642&f=00124099)
-    + [Lewis Carroll Scrapbooks](https://memory.loc.gov/intldl/carrollhtml/lchome.html)
-    + [Carry Amelia Nation diary and scrapbook](http://www.kansasmemory.org/item/219778)
-    + [The Scrapbooks of Molly Picon](http://www.ajhs.org/Molly/index.cfm)
-    + [Willa Cather's childhood scrapbook](http://nebraskahistory.org/exhibits/saving_memories/scrapbook_cather.htm)
-+ Juliet S. Sperling, ["Image"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015100001401?auth=SAML) (2018)
-
-## Penumbra: 
-
-+ Whitney Anne Trettien, ["Creative Destruction / 'Digital Humanities'"](https://medium.com/@whitneytrettien/creative-destruction-digital-humanities-607c080b635e#.u6tzdiwa6) (2016)
 + Catherine Coker, ["The margins of print? Fan fiction as book history"](https://journal.transformativeworks.org/index.php/twc/article/view/1053) (2017)
-
------
-
-# February 27: Copy
-
-## Core: 
-
-+ William Blake, ["The Tyger"](http://www.blakearchive.org/copy/songsie.e?descId=songsie.e.illbk.40) and ["London"](http://www.blakearchive.org/copy/songsie.e?descId=songsie.e.illbk.41) (For each poem, compare at least 3 editions by clicking "Objects from the Same Matrix" below the page image).
-+ Donald F. McKenzie, "The Book as an Expressive Form" from [*Bibliography and the Sociology of Texts*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015240001401?auth=SAML) (orig. 1986)
-+ Ryan Cordell, ["'Q i-jtb the Raven': Taking Dirty OCR Seriously"](https://ryancordell.org/research/qijtb-the-raven/) (2017)
-
-## Penumbra:
-
-+ G. Thomas Tanselle, ["The Bibliographical Concepts of 'Issue' and 'State'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733540001401?auth=SAML) (1975)
-+ Christopher Looby, ["Southworth and Seriality"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733600001401?auth=SAML) (2004)
 + Joseph Viscomi, ["Illuminated Printing" exhibit](http://www.blakearchive.org/staticpage/biography?p=illuminatedprinting) from the *William Blake Archive*
-+ Alan Galey, ["The Enkindling Reciter: E-Books in the Bibliographical Imagination"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016570001401?auth=SAML) (2012)
-+ Whitney Anne Trettien, ["A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica"](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) (2013)
-+ Martin Paul Eve, ["'You have to keep track of your changes': The Version Variants and Publishing History of David Mitchell's Cloud Atlas"](https://olh.openlibhums.org/article/10.16995/olh.82/) (2016)
-
-### [Lab 6: Letterpress III](/labs/Lab6-LetterpressIII/)
-
------
-
-# March 6: Spring Break
-
------
-
-# March 13: Circulation
-
-## Core:
- 
-+ Meredith McGill, "A Matter of the Text" from [*American Literature and the Culture of Reprinting, 1834-1853*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016070001401?auth=SAML) (2007)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (2009) *Note: make sure to read each of the sections in the table of contents at the top*
-+ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733660001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
-
-## Penumbra:
-
-+ Melissa J. Homestead, ["'Every Body See the Theft': Fanny Fern and Literary Proprietorship in Antebellum America"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016140001401?auth=SAML) (2001)
-+ Ellen Gruber Garvey, ["Anonymity, Authorship, and Recirculation: A Civil War Episode"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016330001401?auth=SAML) (2006)
-+ Leslee Thorne-Murphy, ["Re-Authorship: Authoring, Editing, and Coauthoring the Transatlantic Publications of Charlotte M. Yonge's Aunt Charlotte's Stories of Bible History"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016380001401?auth=SAML) (2010)
-+ Rachael Scarborough King, "Introduction" to [*Writing to the World : Letters and the Origins of Modern Print Genres*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894268820001401?auth=SAML) (2018)
 + [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
-
-### Lab 7: Building a Bot
-
-# March 20: Text
-
-## Core: 
-
-+ Jerome McGann, ["The Textual Condition"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016810001401?auth=SAML) (1991)
-+ Sydney Shep, ["'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016710001401?auth=SAML) (2010)
-+ Denis Tenen, "Computational Poetics: An Introduction" and "Metaphor Machines" from [*Plain Text: The Poetics of Computation*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733860001401?auth=SAML) (2018)
-
-## Penumbra:
-
-+ Michael Whitmore, ["Text: A Massively Addressable Object,"](http://dhdebates.gc.cuny.edu/debates/text/28) from *Debates in the Digital Humanities* (2012)
-+ Rita Raley, "TXTual Practice," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
 + Johanna Drucker, "From A to Screen," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
-+ Hannah Alpert-Abrams, ["Machine Reading the *Primeros Libros*"](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html) (2016)
-+ Scott Weingart, ["The Route of a Text Message"](http://scottbot.net/the-route-of-a-text-message/) (2019)
-
-### Lab 8: Computational Text Analysis I
-
------
-
-# March 27: Data
-
-## Core:
-
-+ Matthew G. Kirschenbaum, "Extreme Inscription: A Grammatology of the Hard Drive," from [*Mechanisms: New Media and the Forensic Imagination*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017000001401?auth=SAML) (2008)
-+ Sydney Padua, *The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer* (2015)
-+ Catherine D’Ignazio and Lauren F. Klein, ["Introduction"](https://bookbook.pubpub.org/pub/dgv16l22) and ["Chapter One: Bring Back the Bodies"](https://bookbook.pubpub.org/pub/zrlj0jqb) from *Data Feminism*
-
-## Penumbra:
-
-+ Ellen Gruber Garvey, "facts and FACTS: Abolitionists’ Database Innovations," from [*"Raw Data" Is an Oxymoron*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017080001401?auth=SAML) (2013)
-+ Lauren F. Klein, ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017030001401?auth=SAML) (2013)
-+ Catherine D’Ignazio and Lauren F. Klein, ["Feminist Data Visualization"](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf) (2016)
-+ Melissa Terras and Julianne Nyhan, ["Father Busa’s Female Punch Card Operatives,"](http://dhdebates.gc.cuny.edu/debates/text/57) from *Debates in the Digital Humanities 2016*
-+ Katie Rawson and Trevor Muñoz, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/) (2016)
-+ Molly O’Hagan Hardy, ["'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,"](http://dhdebates.gc.cuny.edu/debates/text/82), from *Debates in the Digital Humanities 2016*
-
-### Lab 9: Computational Text Analysis II
-
------
-
-# April 3: Code
-
-## Core:
-
-+ Roberto Busa, ["Why Can a Computer Do So Little?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020390001401?auth=SAML) (1976)
-+ Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from [*Reading Machines: Toward an Algorithmic Criticism*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733860001401?auth=SAML)
-+ Benjamin M. Schmidt, ["Do Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99) from *Debates in Digital Humanities 2016*
-+ Annette Vee, "Introduction: Computer Programming as Literacy" from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017200001401?auth=SAML) (2018)
-
-## Penumbra:
-
-+ Lauren Klein, ["The Carework and Codework of the Digital Humanities"](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (2015)
-+ Paul Ford, ["What Is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (2015)
-+ Ted Underwood, ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html) (2017)
-+ Richard Jean So, ["All Models are Wrong"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020530001401?auth=SAML) (2017)
-+ Alison Booth, ["Mid-Range Reading: Not a Manifesto"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020660001401?auth=SAML) (2017)
-
-### Lab 10: Computational Text Analysis III
-
------
-
-# April 10: Interface
-
-## Core:
-
 + Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017)
 + Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
-+ Amaranth Borsuk, "The Book as Idea" and "The Book as Interface" from *The Book* (2018)
-
-## Penumbra:
-
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
-+ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016650001401?auth=SAML) (2014)
 + Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
-+ Kate Crawford and Vladan Joler, ["Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor"](https://anatomyof.ai/) (2018)
-
-### Lab 11: Electronic Literature
-
------
-
-# April 17: TBD
-
-### Seminar Unpaper Presentations

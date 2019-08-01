@@ -28,10 +28,9 @@ navbar-links:
   Schedule: "schedule"
   Assignments: 
     - Overview and Grading: "assignments"
-    - Leading Class Discussion: "assignments/discussion"
     - Fieldbook: "assignments/fieldbook"
-    - Dead Media Poster: "assignments/dead-media"
-    - Seminar Unpaper: "assignments/unpaper"
+    - Minor Text Projects: "assignments/minor-text-projects"
+    - Final Book Project: "assignments/final-book-project"
   News: "news"
 
 
