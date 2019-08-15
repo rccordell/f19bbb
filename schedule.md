@@ -16,8 +16,7 @@ Mondays: discussion of readings
 Wednesdays: applied instruction in a particular book technology
 Thursdays: work in studio
 
-This pace will vary a bit as the semester progresses, with both Wednesday and Thursday being devoted to studio time as final project deadlines approach. 
-
+This pace will vary a bit as the semester progresses, with no independent studio time in the early weeks of the semester, when you will not yet have a project underway, and with both Wednesday and Thursday being devoted to studio time as final project deadlines approach. 
 
 ## Studio Class Sessions
 
@@ -36,13 +35,11 @@ Readings:
 
 Readings:
 
-+ Amaranth Borsuk, *The Book* (2018)
++ Amaranth Borsuk, “The Book as Object” from *The Book* (2018)
 
-Visit: NU Archives and Special Collections
+**Wednesday, 9/11: Visit to NU Archives**
 
 ## Week 3 &#10087; September 16, 18, 19 &#10087; Print I
-
-**Visit to NU Archives on 9/18**
 
 Readings:
 
@@ -60,7 +57,7 @@ Readings:
 + Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
 + Amy Papaelias, ["Best Practices: Teaching Typographic Principles to Digital Humanities Audiences"](http://www.digitalhumanities.org/dhq/vol/12/4/000405/000405.html) (2018)
 
-Visit: Massachusetts Historical Society
+**Wednesday, 9/25: Visit to Massachusetts Historical Society**
 
 ## Week 5 &#10087; September 30, October 2, 3 &#10087; Zines
 
@@ -75,6 +72,7 @@ Readings:
 
 Readings: 
 
++ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)
 + (Watch) Russell Maret, ["Hiccups, Trip-ups & Total Disasters: Thoughts on Making Books"](https://www.youtube.com/watch?v=7uGrTOwUg0U&app=desktop)
 + Ricardo Dantas, ["How to Design an Awarded Letterpress Printed Book"](https://medium.com/swlh/design-process-production-of-an-awarded-letterpressed-book-733d4627966a) (2019)
 
@@ -91,6 +89,7 @@ Students will present their [book reports](/assignments/book-reports/) this week
 + Amaranth Borsuk, Jesper Juul, and Nick Montfort, [“The Deletionist”](http://thedeletionist.com/) (2013)
 + J. R. Carpenter, ["etheric ocean"](http://luckysoap.com/ethericocean/) (2014)
 + Porpentine, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
++ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
 
 ## Week 9 &#10087; October 28, 30, 31 &#10087; E-lit II
 
@@ -105,7 +104,9 @@ Readings:
 + Christian Bök, ["The Xenotext Works](https://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works) (2011) & Joshua Schuster, ["On Reading Christian Bök's 'The Xenotext: Book 1' Ten Thousand Years Later"](https://jacket2.org/reviews/reading-christian-boks-xenotext-book-1-ten-thousand-years-later) (2016)
 + Craig Mod, ["The 'Future Book' is Here, but It's Not What We Expected"](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (2018)
 
-## Week 11 &#10087; November 13 & 14 &#10087; 3D Printing I
+**Wednesday, 11/6: Visit to NU Archives**
+
+## Week 11 &#10087; November 13 & 14 &#10087; 3D Printing
 
 No class November 11: Veterans' Day
 
@@ -114,7 +115,7 @@ Readings:
 + TBA
 + Courtney Jacobs, Marcia McIntosh, Kevin M. O’Sullivan, ["Making Book History: Engaging Maker Culture and 3D Technologies to Extend Bibliographical Pedagogy"](https://rbm.acrl.org/index.php/rbm/article/view/16984) (2018)
 
-Visit: Snell Library 3D Printing Studio
+**Wednesday, November 13: Visit Snell Library 3D Printing Studio**
 
 ## Week 12 &#10087; November 18, 20, 21 &#10087; Fabrication
 
@@ -132,33 +133,3 @@ No class November 27-29; Thanksgiving
 ## Week 14 &#10087; December 2 & 4 &#10087; Final Exercises
 
 Final project presentations
-
-
-
-
-
-
-
-
-
-
-
-+ Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/) (1894)
-+ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)
-+ Jonathan Senchyne, ["Rags Make Paper, Paper Makes Money: Material Texts and Metaphors of Capital"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994560001401?auth=SAML) (2017)
-+ Elyse Graham, ["The Printing Press as Metaphor"](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html) (2016)
-+ Articles about the [Victoria Press](https://en.wikipedia.org/wiki/Victoria_Press)
-  + M. M. H., ["A Ramble with Mrs. Grundy: A Visit to the Victoria Printing Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009460001401?auth=SAML) (1860)
-  + ["The Victoria Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009510001401?auth=SAML) *Illustrated London News* (15 June 1861)
-  + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009560001401?auth=SAML) *English Woman's Journal* (1861)
-+ Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
-+ ["Printing" vocational film](https://youtu.be/bPCiWiLu-W4) (1947) and ["Learning to Set Type" vocational film](https://youtu.be/AHrLIVeH1KM) (1940s)
-+ Catherine Coker, ["The margins of print? Fan fiction as book history"](https://journal.transformativeworks.org/index.php/twc/article/view/1053) (2017)
-+ Joseph Viscomi, ["Illuminated Printing" exhibit](http://www.blakearchive.org/staticpage/biography?p=illuminatedprinting) from the *William Blake Archive*
-+ Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (2009) *Note: make sure to read each of the sections in the table of contents at the top*
-+ [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
-+ Johanna Drucker, "From A to Screen," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
-+ Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017)
-+ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
-+ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
