@@ -23,6 +23,9 @@ This pace will vary a bit as the semester progresses, with no independent studio
 ## Studio Class Sessions
 
 Our studio class sessions are intended to give you time to experiment with the book technologies introduced throughout the semester and to make substantive progress toward your final project. Studio classes are not optional. During studio classes—and particularly during the second half of the semester when projects are well underway—students will occasionally be asked to share what they are working on with the class for discussion and comment. 
+-----
+
+# Schedule
 
 -----
 
@@ -33,6 +36,8 @@ Prep:
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Josephine Livingston, ["What Do Our Oldest Books Say About Us?"](https://newrepublic.com/article/152111/oldest-books-say-us) (2018)
 
+-----
+
 ## Week 2 &#10087; September 9, 11, 12 &#10087; What Is a Book?
 
 Prep:
@@ -40,6 +45,8 @@ Prep:
 + Amaranth Borsuk, *The Book* (2018)
 
 **Thursday, 9/12: Visit to NU Archives**
+
+-----
 
 ## Week 3 &#10087; September 16, 18, 19 &#10087; Print I
 
@@ -53,6 +60,8 @@ Prep:
 
 ### No Class Thursday, 9/19 &#10087; Professor Cordell Away
 
+-----
+
 ## Week 4 &#10087; September 23, 25, 26 &#10087; Print II
 
 Prep:
@@ -62,6 +71,8 @@ Prep:
 + Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
 
 ### Wednesday, 9/25 &#10087; Visit to Massachusetts Historical Society
+
+-----
 
 ## Week 5 &#10087; September 30, October 2, 3 &#10087; Zines
 
@@ -89,7 +100,11 @@ Prep:
 + Beth Driscoll and Claire Squires, ["'Oh Look, a Ferry'; or the Smell of Printed Books"](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
 + Ricardo Dantas, ["How to Design an Awarded Letterpress Printed Book"](https://medium.com/swlh/design-process-production-of-an-awarded-letterpressed-book-733d4627966a) (2019)
 
+-----
+
 ### No class October 14 &#10087; Indigenous Peoples Day
+
+-----
 
 ## Week 7 &#10087; October 16 & 17 &#10087; Book Alterities
 
@@ -100,6 +115,8 @@ Prep:
 + (browse) Tom Phillips, [*A Humument*](http://www.tomphillips.co.uk/humument)
 
 ### Wednesday, 10/16 &#10087; Visit to NU Archives**
+
+-----
 
 ## Week 8 &#10087; October 21, 23, 24 &#10087; E-lit I
 
@@ -142,19 +159,29 @@ Prep:
 
 ### Wednesday, 11/4 &#10087; Visit to the Snell Library 3-D Printing Studio
 
+-----
+
 ### No class November 11 &#10087; Veterans' Day
 
+-----
+
 ## Week 11 &#10087; November 13 & 14 &#10087; Fabrication II: Paper Circuits
+
+-----
 
 ## Week 12 &#10087; November 18, 20, 21 &#10087; Open
 
 Studio Time
 
+-----
+
 ## Week 13 &#10087; November 25 &#10087; Open
 
 Studio Time
 
-No class November 27-29; Thanksgiving
+-----
+
+### No class November 27-29 &#10087; Thanksgiving
 
 ----
 
