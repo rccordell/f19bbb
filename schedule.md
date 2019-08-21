@@ -36,6 +36,7 @@ Prep:
 
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Josephine Livingston, ["What Do Our Oldest Books Say About Us?"](https://newrepublic.com/article/152111/oldest-books-say-us) (2018)
++ Browse [Kit Davey's Instagram](https://www.instagram.com/daveykit/?hl=en)
 
 -----
 
