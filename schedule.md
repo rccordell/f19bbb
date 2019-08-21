@@ -23,6 +23,7 @@ This pace will vary a bit as the semester progresses, with no independent studio
 ## Studio Class Sessions
 
 Our studio class sessions are intended to give you time to experiment with the book technologies introduced throughout the semester and to make substantive progress toward your final project. Studio classes are not optional. During studio classes—and particularly during the second half of the semester when projects are well underway—students will occasionally be asked to share what they are working on with the class for discussion and comment. 
+
 -----
 
 # Schedule
