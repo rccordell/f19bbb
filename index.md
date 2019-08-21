@@ -11,7 +11,7 @@ Course Number: HONR 3310
 Meeting Room: Holmes Hall 472  
 Days & Time: Monday, Wednesday, Thursday 1:35-2:40pm 
 Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu)  
-Fall Office Hours: TBA
+Fall Office Hours: Mondays and Thursdays 10:30-11:45, and by appointment
 
 ## Course Description
 
@@ -21,4 +21,4 @@ In this studio-based course, students investigate intersections among media, lit
 
 ## Acknowledgements
 
-In developing this course I learned from many people and existing courses, such as Matthew Kirschenbaum's graduate seminar, [BookLab: How to Do Things with Books](https://hcommons.org/deposits/objects/hc:22598/datastreams/CONTENT/content). I am especially grateful to have co-taught a version of this class in the summer of 2019 with [Élika Ortega](https://elikaortega.net/), from whom I learned an immense amount and without whom this current class could not exist. 
+In developing this course I learned from many people and existing courses, such as Matthew Kirschenbaum's graduate seminar, [BookLab: How to Do Things with Books](https://hcommons.org/deposits/objects/hc:22598/datastreams/CONTENT/content). I am especially grateful to have co-taught a version of this class in the summer of 2019 with [Élika Ortega](https://elikaortega.net/), from whom I learned an immense amount and without whom this current class could not exist. I am also grateful to [Giordana Mecagni](https://giordanamecagni.wordpress.com/) for her help developing the Zines unit. 

@@ -4,9 +4,11 @@ title: Class Schedule
 bigimg: /img/letterpress.jpg
 ---
 
+# Using this Schedule
+
 ## Accessing Readings
 
-The majority of our readings will be available online or through [a digital course packet in Leganto](). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
+The majority of our readings will be available online or through [a digital course packet in Leganto](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/lists/9434237330001401?auth=SAML). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
 
 ## Weekly Structure
 
@@ -26,109 +28,139 @@ Our studio class sessions are intended to give you time to experiment with the b
 
 ## Week 1 &#10087; September 4 & 5 &#10087; Introductions
 
-Readings:
+Prep:
 
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Josephine Livingston, ["What Do Our Oldest Books Say About Us?"](https://newrepublic.com/article/152111/oldest-books-say-us) (2018)
 
 ## Week 2 &#10087; September 9, 11, 12 &#10087; What Is a Book?
 
-Readings:
+Prep:
 
-+ Amaranth Borsuk, “The Book as Object” from *The Book* (2018)
++ Amaranth Borsuk, *The Book* (2018)
 
-**Wednesday, 9/11: Visit to NU Archives**
+**Thursday, 9/12: Visit to NU Archives**
 
 ## Week 3 &#10087; September 16, 18, 19 &#10087; Print I
 
-Readings:
+Prep:
 
 + (Watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2008) *Note: This video is about 1 hour long; plan accordingly!*
-+ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II) or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9081705360001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
-+ (Watch) [“Printing”](https://youtu.be/bPCiWiLu-W4) vocational film (1947) and [“Learning to Set Type”](https://youtu.be/AHrLIVeH1KM) vocational film (1940s)
-+ Beth Driscoll and Claire Squires, ["'Oh Look, a Ferry'; or the Smell of Printed Books"](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
++ A.C., ["Well Pressed"](https://www.economist.com/prospero/2014/12/18/well-pressed) (2014)
++ Lindsay Lynch, ["How I Came to Love the En Space"](http://www.theatlantic.com/technology/archive/2016/09/how-i-came-to-love-the-en-space/499337/) (2016)
++ Glen Fleishman, ["How Letterpress Printing Came Back from the Dead"](https://www.wired.com/story/how-letterpress-printing-came-back-from-the-dead/) (2017)
++ Stuart Crawford, ["A Design Guide to the Letterpress Printing Process"](https://inkbotdesign.com/letterpress-printing/) (2019)
+
+### No Class Thursday, 9/19 &#10087; Professor Cordell Away
 
 ## Week 4 &#10087; September 23, 25, 26 &#10087; Print II
 
-Readings:
+Prep:
 
-+ Chris Gayomali, ["How Typeface Influences the Way We Read and Think"](http://theweek.com/articles/463196/how-typeface-influences-way-read-think) (2013)
-+ Lindsay Lynch, ["How I Came to Love the En Space"](http://www.theatlantic.com/technology/archive/2016/09/how-i-came-to-love-the-en-space/499337/) (2016)
++ Ellen Lupton, "Letter" and "Text" from *Thinking With Type* (2010)
++ Steven Heller, ["Brooklyn In Your (Type)Face"](https://www.printmag.com/daily-heller/a-regional-typeface-from-brooklyn/) (2015)
 + Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
-+ Amy Papaelias, ["Best Practices: Teaching Typographic Principles to Digital Humanities Audiences"](http://www.digitalhumanities.org/dhq/vol/12/4/000405/000405.html) (2018)
 
-**Wednesday, 9/25: Visit to Massachusetts Historical Society**
+### Wednesday, 9/25 &#10087; Visit to Massachusetts Historical Society
 
 ## Week 5 &#10087; September 30, October 2, 3 &#10087; Zines
 
 **Guest Lecturers from NU Libraries**
 
-Readings: 
+Prep: 
 
 + Pagan Kennedy, from *'Zine* (1995)
 + [Zine Librarians Code of Ethics](https://zinelibraries.info/code-of-ethics/) (2015)
++ Jenna Wortham, ["Why the Internet Didn’t Kill Zines"](https://www.nytimes.com/2017/02/28/magazine/why-the-internet-didnt-kill-zines.html) (2017)
++ (Browse) [*Traces*](http://openthresholds.org/home)
+
+----
+
+### Friday, 10/4 &#10087; Book Proposals Due!
+
+----
 
 ## Week 6 &#10087; October 7, 9, 10 &#10087; Binding
 
-Readings: 
+Prep: 
 
-+ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)
-+ (Watch) Russell Maret, ["Hiccups, Trip-ups & Total Disasters: Thoughts on Making Books"](https://www.youtube.com/watch?v=7uGrTOwUg0U&app=desktop)
++ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9434256620001401?auth=SAML) (1904)
++ Zachary Petit, ["Letterpress Goes for a Hike: The Printed Walk"](https://www.printmag.com/featured/the-printed-walk-letterpress-lindsay-schmittle-gingerly-press/) (2016)
++ Beth Driscoll and Claire Squires, ["'Oh Look, a Ferry'; or the Smell of Printed Books"](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
 + Ricardo Dantas, ["How to Design an Awarded Letterpress Printed Book"](https://medium.com/swlh/design-process-production-of-an-awarded-letterpressed-book-733d4627966a) (2019)
 
-## Week 7 &#10087; October 16 & 17 &#10087; Book Reports
+### No class October 14 &#10087; Indigenous Peoples Day
 
-No class October 12: Indigenous Peoples Day
+## Week 7 &#10087; October 16 & 17 &#10087; Book Alterities
 
-Students will present their [book reports](/assignments/book-reports/) this week. We will sign up for particular days a few weeks ahead of time.
++ Ulises Carrión, ["The New Art of Making Books"](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf) (1975)
++ Christian Bök, ["The Xenotext Works](https://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works) (2011) & Joshua Schuster, ["On Reading Christian Bök's 'The Xenotext: Book 1' Ten Thousand Years Later"](https://jacket2.org/reviews/reading-christian-boks-xenotext-book-1-ten-thousand-years-later) (2016)
++ Lisa Vollrath, ["A Crash Course On Altered Books"](https://mixedmedia.club/a-crash-course-on-altered-books/) (2015)
++ Craig Mod, ["The 'Future Book' is Here, but It's Not What We Expected"](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (2018)
++ (browse) Tom Phillips, [*A Humument*](http://www.tomphillips.co.uk/humument)
+
+### Wednesday, 10/16 &#10087; Visit to NU Archives**
 
 ## Week 8 &#10087; October 21, 23, 24 &#10087; E-lit I
+
+ + Ferris Jabr, ["The Reading Brain in the Digital Age: The Science of Paper versus Screens"](https://www.scientificamerican.com/article/reading-paper-screens/) (2013)
++ Paul La Farge, ["The Deep Space of Digital Reading"](http://nautil.us/issue/32/space/the-deep-space-of-digital-reading) (2016)
++  Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
+
+## Week 9 &#10087; October 28, 30, 31 &#10087; E-lit II
 
 + bpNichol, ["First Screening"](http://vispo.com/bp/index.htm) (1984)
 + read about "Agrippa" (1992) at ["The Agrippa Files"](http://agrippa.english.ucsb.edu/)
 + Amaranth Borsuk, Jesper Juul, and Nick Montfort, [“The Deletionist”](http://thedeletionist.com/) (2013)
 + J. R. Carpenter, ["etheric ocean"](http://luckysoap.com/ethericocean/) (2014)
 + Porpentine, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
-+ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
++ Browse the *Electronic Literature Collection* [Volume 2](http://collection.eliterature.org/2/) and [Volume 3](http://collection.eliterature.org/3/) and choose one work you would like to share with the class.
++ Leonardo Flores, ["Third Generation Electronic Literature"](http://electronicbookreview.com/essay/third-generation-electronic-literature/) (2019)
 
-## Week 9 &#10087; October 28, 30, 31 &#10087; E-lit II
+----
 
-+  Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
-+  (Browse) [*Traces*](http://openthresholds.org/home)
+### Friday, 11/1 &#10087; Book Prototypes Due!
 
-## Week 10 &#10087; November 4, 6, 7 &#10087; Future Books
+----
 
-Readings: 
+## Week 10 &#10087; November 4, 6, 7 &#10087; Fabrication I: 3D Printing
 
-+ Ulises Carrión, ["The New Art of Making Books"](http://www.reflexionesmarginales.com/biblioteca/15/Documentos/Ulises_Carrion:The_New_Art_of_Making_Books.pdf) (1975)
-+ Christian Bök, ["The Xenotext Works](https://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works) (2011) & Joshua Schuster, ["On Reading Christian Bök's 'The Xenotext: Book 1' Ten Thousand Years Later"](https://jacket2.org/reviews/reading-christian-boks-xenotext-book-1-ten-thousand-years-later) (2016)
-+ Craig Mod, ["The 'Future Book' is Here, but It's Not What We Expected"](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (2018)
++ Jentery Sayers, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, [“Between Bits and Atoms: Physical Computing and Desktop Fabrication in the Humanities”]() (2015)
++ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, ["Thinking as Handwork: Critical Making with Humanistic Concerns"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
++ Susan Garfinkel, ["Dialogic Objects in the Age of 3-D Printing: The Case of the Lincoln Life Mask"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/a7eff40f-41f9-4851-9d9a-d560888c4dda#ch24) (2017)
++ Browse the following project snapshots from *Making Things and Drawing Boundaries* (2017):
+    + Kari Kraus, ["Bibliocircuitry and the Design of the Alien Everyday, 2012–13"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/7b83c1a0-8e49-404f-9023-bfdc5c6874e2#ch17)
+    + Helen J. Burgess, ["MashBOT"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/e913f0ff-4a13-4f08-a164-7945f43a8636#ch05)
+    + Garnet Hertz, ["Made: Technology on Affluent Leisure Time"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/99b20079-6a78-43bc-8110-3804b04acc65#ch13)
+    + Allison Burtch and Eric Rosenthal, ["Mic Jammer"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/f8dcc03c-2bc3-499a-8c1b-1d17f4098400#ch11)
+    + Nina Belojevic, ["Glitch Console"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/b1dbaeab-f4ad-4738-9064-8ea740289503#ch20)
+    + Aaron Tucker, Jordan Scott, Tiffany Cheung, and Namir Ahmed, ["Loss Sets"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/295ebba3-f963-4be4-b9c7-ad8ea90062f9#ch23)
+    + Anne Balsamo, Dale MacDonald, and Jon Winet, ["AIDS Quilt Touch: Virtual Quilt Browser"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/acee4e20-acf5-4eb3-bb98-0ebaa5c10aaa#ch32)
+    + Wendy Hsu, Steven Kemper, Josef Cameron Taylor, Linda Wei, and Jacob Alden Sargent, ["Moveable Party"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/ea0628cc-350a-4ffa-bb25-0332c4ef7a88#ch28)
+    + Kim A. Brillante Knight, ["Fashioning Circuits, 2011–Present"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/05613b02-ec93-4588-98e0-36cd4336e7a0#ch26)
+    + Carl Disalvo, Tom Jenkins, Jong Won (Karl) Kim, Catherine Meschia, and Craig Durkin, ["Designs for Foraging: Fruit Are Heavy, 2015–16"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/72a6c541-e5d8-4952-ba53-791a5e9f24f3#ch30)
 
-**Wednesday, 11/6: Visit to NU Archives**
+### Wednesday, 11/4 &#10087; Visit to the Snell Library 3-D Printing Studio
 
-## Week 11 &#10087; November 13 & 14 &#10087; 3D Printing
+### No class November 11 &#10087; Veterans' Day
 
-No class November 11: Veterans' Day
+## Week 11 &#10087; November 13 & 14 &#10087; Fabrication II: Paper Circuits
 
-Readings: 
+## Week 12 &#10087; November 18, 20, 21 &#10087; Open
 
-+ TBA
-+ Courtney Jacobs, Marcia McIntosh, Kevin M. O’Sullivan, ["Making Book History: Engaging Maker Culture and 3D Technologies to Extend Bibliographical Pedagogy"](https://rbm.acrl.org/index.php/rbm/article/view/16984) (2018)
+Studio Time
 
-**Wednesday, November 13: Visit Snell Library 3D Printing Studio**
-
-## Week 12 &#10087; November 18, 20, 21 &#10087; Fabrication
-
-Readings: 
-
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, [“Bibliocircuitry and the Design of the Alien Everyday”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
-+ Jentery Sayers, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, [“Between Bits and Atoms: Physical Computing and Desktop Fabrication in the Humanities”] (2015)
-
-## Week 13 &#10087; November 25 &#10087; Studio
+## Week 13 &#10087; November 25 &#10087; Open
 
 Studio Time
 
 No class November 27-29; Thanksgiving
+
+----
+
+### Monday, 12/2 &#10087; Final Projects Due!
+
+----
 
 ## Week 14 &#10087; December 2 & 4 &#10087; Final Exercises
 

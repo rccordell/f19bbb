@@ -17,14 +17,15 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 + Professor: [Ryan Cordell](http://ryancordell.org)
 + Cordell Email: [r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) 
 + Cordell Office: Nightingale Hall 415
-+ Cordell Office Hours: TBA
++ Cordell Office Hours: Mondays and Thursdays 10:30-11:45, and by appointment
 
 -----
 
 # Required Texts
  
-The majority of our readings will be available online or through the library's Leganto system. We will read one book, however, which you will need to purchase:
+The majority of our readings will be available online or through the library's Leganto system. We will read two books, however, which you will need to purchase:
  
++ Ellen Lupton, [*Thinking with Type*](https://amzn.to/323Yv8D) (2010)
 + Amaranth Borsuk, [*The Book*](https://amzn.to/2Ea7Gvc) (2018)
 
 -----
