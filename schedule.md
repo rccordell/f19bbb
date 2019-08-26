@@ -85,6 +85,7 @@ Prep:
 + Pagan Kennedy, from *'Zine* (1995)
 + [Zine Librarians Code of Ethics](https://zinelibraries.info/code-of-ethics/) (2015)
 + Jenna Wortham, ["Why the Internet Didn’t Kill Zines"](https://www.nytimes.com/2017/02/28/magazine/why-the-internet-didnt-kill-zines.html) (2017)
++ Erin Dorney, ["6 Styles of Erasure Poetry"](https://trishhopkinson.com/2018/06/10/6-styles-of-erasure-poetry-guest-blog-post-by-erin-dorney/)
 + (Browse) [*Traces*](http://openthresholds.org/home)
 
 ----
@@ -114,6 +115,7 @@ Prep:
 + Christian Bök, ["The Xenotext Works](https://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works) (2011) & Joshua Schuster, ["On Reading Christian Bök's 'The Xenotext: Book 1' Ten Thousand Years Later"](https://jacket2.org/reviews/reading-christian-boks-xenotext-book-1-ten-thousand-years-later) (2016)
 + Lisa Vollrath, ["A Crash Course On Altered Books"](https://mixedmedia.club/a-crash-course-on-altered-books/) (2015)
 + Craig Mod, ["The 'Future Book' is Here, but It's Not What We Expected"](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (2018)
++ Merve Emre, ["This Library Has New Books by Major Authors, but They Can’t Be Read Until 2114"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484550810001401?auth=SAML)
 + (browse) Tom Phillips, [*A Humument*](http://www.tomphillips.co.uk/humument)
 
 ### Wednesday, 10/16 &#10087; Visit to NU Archives**
@@ -144,11 +146,10 @@ Prep:
 
 ## Week 10 &#10087; November 4, 6, 7 &#10087; Fabrication I: 3D Printing
 
-+ Jentery Sayers, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, [“Between Bits and Atoms: Physical Computing and Desktop Fabrication in the Humanities”]() (2015)
-+ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, ["Thinking as Handwork: Critical Making with Humanistic Concerns"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
++ Jentery Sayers, Devon Elliott, Kari Kraus, Bethany Nowviskie, and William J. Turkel, [“Between Bits and Atoms: Physical Computing and Desktop Fabrication in the Humanities”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484550400001401?auth=SAML) from *A New Companion to Digital Humanities* (2015)
 + Susan Garfinkel, ["Dialogic Objects in the Age of 3-D Printing: The Case of the Lincoln Life Mask"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/a7eff40f-41f9-4851-9d9a-d560888c4dda#ch24) (2017)
++ Kendra Pierre-Louis, ["3D printing is tackling what may be its biggest challenge yet: the humble book"](https://www.popsci.com/3d-printed-bound-book/) (2017)
 + Browse the following project snapshots from *Making Things and Drawing Boundaries* (2017):
-    + Kari Kraus, ["Bibliocircuitry and the Design of the Alien Everyday, 2012–13"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/7b83c1a0-8e49-404f-9023-bfdc5c6874e2#ch17)
     + Helen J. Burgess, ["MashBOT"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/e913f0ff-4a13-4f08-a164-7945f43a8636#ch05)
     + Garnet Hertz, ["Made: Technology on Affluent Leisure Time"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/99b20079-6a78-43bc-8110-3804b04acc65#ch13)
     + Allison Burtch and Eric Rosenthal, ["Mic Jammer"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/f8dcc03c-2bc3-499a-8c1b-1d17f4098400#ch11)
@@ -168,6 +169,9 @@ Prep:
 -----
 
 ## Week 11 &#10087; November 13 & 14 &#10087; Fabrication II: Paper Circuits
+
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, [“Bibliocircuitry and the Design of the Alien Everyday”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
++ Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, ["Thinking as Handwork: Critical Making with Humanistic Concerns"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
 
 -----
 
