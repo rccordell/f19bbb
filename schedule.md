@@ -36,6 +36,7 @@ Prep:
 
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Josephine Livingston, ["What Do Our Oldest Books Say About Us?"](https://newrepublic.com/article/152111/oldest-books-say-us) (2018)
++ Leah Price, "Introduction" from *What We Talk About When We Talk About Books* (2019)
 + Browse [Kit Davey's Instagram](https://www.instagram.com/daveykit/?hl=en)
 
 -----
@@ -68,7 +69,7 @@ Prep:
 
 Prep:
 
-+ Ellen Lupton, "Letter" and "Text" from *Thinking With Type* (2010)
++ Ellen Lupton, "Letter" and "Text" from [*Thinking With Type*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9502618350001401?auth=SAML) (2010)
 + Steven Heller, ["Brooklyn In Your (Type)Face"](https://www.printmag.com/daily-heller/a-regional-typeface-from-brooklyn/) (2015)
 + Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
 
