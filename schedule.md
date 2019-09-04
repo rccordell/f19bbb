@@ -36,7 +36,7 @@ Prep:
 
 + Ken Liu, ["The Bookmaking Habits of Select Species"](http://www.lightspeedmagazine.com/fiction/the-bookmaking-habits-of-select-species/) (2012)
 + Josephine Livingston, ["What Do Our Oldest Books Say About Us?"](https://newrepublic.com/article/152111/oldest-books-say-us) (2018)
-+ Leah Price, "Introduction" from *What We Talk About When We Talk About Books* (2019)
++ Leah Price, "Introduction" and "Reading Over Shoulders" from [*What We Talk About When We Talk About Books*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9504796520001401?auth=SAML) (2019)
 + Browse [Kit Davey's Instagram](https://www.instagram.com/daveykit/?hl=en)
 
 -----
