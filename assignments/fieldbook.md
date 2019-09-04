@@ -6,7 +6,7 @@ bigimg: /img/14934283002_9663bae608_k-banner.jpg
 
 ## Assignment Overview:
 
-+ A growing portfolio of documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and committed to a [Github Classroom repository]()
++ A growing portfolio of documents, composed in [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and committed to a [Github Classroom repository](https://classroom.github.com/a/i5JrrTkP)
 + Students work individually
 + Reading prep entries are due before each week (generally Monday, with marked exceptions); reflective entries are due one week after the end of each week.
 
@@ -25,17 +25,17 @@ For each week in this class, you will be assigned articles or books to read, fil
 
 Reading prep will be deemed "Unsatisfactory" when it indicates lack of preparation or inattentive reading, and will have consequences as outlined in your grading contract. 
 
-You should draft each reading prep fieldbook entry in its own `.md` file, following the naming convention outlined below, and commit it to your fieldbook repository prior to the pertinent class period. *To emphasize: each class preparation entry should be saved as a separate file in your Github repository.*
+You should draft each reading prep fieldbook entry in its own `.md` file, following the naming convention outlined below, and commit it to the `reading-prep` folder of your [fieldbook repository](https://classroom.github.com/a/i5JrrTkP) prior to the pertinent class period. *To emphasize: each class preparation entry should be saved as a separate file in your Github repository.*
 
 You should name your reading prep entries following the following convention:
 
-`YYYY-MM-DD-readingprep-WeekName.md`
+`YYYY-MM-DD-readingPrep-WeekName.md`
 
 ### Reflective Entries
 
 Following each week, you should write should prepare a 3-5 paragraphs responding to the core readings in light of discussion and our class activities during the week. This means a 3-5 paragraphs **in total**, *NOT* a 3-5 paragraphs per text. Your entries should synthesize and bring readings into conversation, and should focus on a few ideas you want to highlight rather than attempting to summarize everything in the readings. You should highlight aspects of the activities brought into relief by our readings, or vice versa, or point to disjunctures between theory and praxis. 
 
-You should draft each reflective fieldbook entry in its own `.md` file, following the naming convention outlined below, and commit it to your fieldbook repository within one week follow the end of the pertinent week. *To emphasize: each reflective entry should be saved as a separate file in your Github repository.*
+You should draft each reflective fieldbook entry in its own `.md` file, following the naming convention outlined below, and commit it to the `reflective` folder of your [fieldbook repository](https://classroom.github.com/a/i5JrrTkP) within one week follow the end of the pertinent week. *To emphasize: each reflective entry should be saved as a separate file in your Github repository.*
 
 You should name your reflective fieldbook entries following the following convention:
 
