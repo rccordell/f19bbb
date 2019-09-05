@@ -1,73 +1,43 @@
 ---
 layout: post
-title: "Lab #1: Markdown"
-tags: [lab, fieldbook]
+title: "Markdown and Github"
 author: rccordell
-permalink: /labs/Lab1-Markdown/
+permalink: /Markdown-and-Github/
 ---
 
-## Lab Overview
+You will write most of your assignments in this class using the [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) standard, and you will commit those files to a [Github Classroom repository](https://classroom.github.com/a/i5JrrTkP) as you work. Today will will learn about both Github and Markdown.
 
-Your [fieldbook assignment](/assignments/fieldbook) constitutes the central, ongoing work of your semester where you will record your ideas about our readings in *bibliographic annotation* entries and think through the work of our humanities laboratories in *lab report* entries. You will gather all of these materials in a repository on [Github](https://github.com/). You will write using the Markdown syntax, which I describe below and which we will discuss in detail during today's laboratory.
-
-## Lab Report 1 Prompt
-
-Your first lab report has a wide mandate, and will give you the chance to experiment with weaving together your ideas from our first week's reading and discussion with a thoughtful engagement with our first laboratory. Do not try to discuss every reading or point you might; instead, choose 1-2 readings and one central idea to dig into. Use your lab report to bring together theory and praxis, to begin understand *doing* as a critical and intellectual practice intimately related to *thinking* or *writing*. In this case, what might Markdown have to say to our burgeoning understanding of media and materiality? 
-
-### Required Software
+## Required Software
 
 + A [Github](https://github.com/) or [Github Education](https://education.github.com/) account
-+ [Github Desktop](https://desktop.github.com/)
++ [Github Desktop](https://desktop.github.com/) (if you have experience and prefer to use Github from the command line, that's fine, but we will use the application together)
 + a text editor, and ideally a Markdown-aware one (see lists below)
 
 ## Working with Github
 
 You may sign up for a free Github account or, if you would like the option to create private repositories, apply for a free Pro account under [Github Education](https://education.github.com/). I recommend the latter, which is available to you while you are a student.
 
-We will discuss some of the reasons I want you to try Github in this lab, but in brief:
+We will discuss some of the reasons we will use Github, but in brief:
 
 1. It's a convenient way to store work that includes writing and, as we will need later in the semester, computer code, and to share that work easily with others: in this case, your colleagues and instructor.
 2. It will help us learn about version control: in short, Github saves each instance of your work so that you can return to earlier versions simply, as well as giving you the capacity to collaborate asynchronously with other writers/coders.
-3. It will give us a good platform for exploring writing in Markdown, which is what this lab will largely focus on.
+3. It will give us a good platform for exploring writing in Markdown.
 
-Once you have signed up for your Github account, we will begin discussing methods for contributing—or adding files—to it. You might consider downloading the [Github Desktop](https://desktop.github.com/) application to make contributing to your repository simple. 
+Once you have signed up for your Github account, you can accept the fieldbook assignment in [our Github classroom](https://classroom.github.com/a/i5JrrTkP). We will then learn how to use the [Github Desktop](https://desktop.github.com/) application, which will allow you to create a folder on your own computer in which you will write new Markdown files, and which you will periodically *commit*, or sync, to Github. This way you can write locally but regularly post your work in a way I will be able to access (as well as any others you wish).
 
-Essentially, however, you will be creating a folder on your own computer in which you will create new Markdown files, and which you will periodically *commit*, or sync, to Github. This way you can write locally but regularly post your work in a way I will be able to access (as well as any others you wish). 
+### Filenames and Headers
 
-## Filenames and Headers
+You should name your files following a very specific convention, which you will see in the template files provided in the fieldbook repository. 
 
-You should name your files following a very specific convention, which I also outline in the fieldbook assignment. 
-
-> *For bibliographic annotation entries:*
+> *For reading prep entires:*
 > 
-> `YYYY-MM-DD-bibliographic-WHAT-WORDS-YOU-WANT.md`
+> `YYYY-MM-DD-readingPrep-WeekName.md`
 > 
-> *For lab report entries:*
-> `YYYY-MM-DD-labreport-WHAT-WORDS-YOU-WANT.md`
+> *For reflective entries:*
+> `YYYY-MM-DD-reflective-WeekName.md`
 
-Each file should begin with a header following this convention:
+Files should be saved in the correct folder of the repository.
 
-*For bibliographic annotation entries:*
-
-```
----  
-layout: post  
-title: "TITLE HERE"  
-tags: [bibliographic annotation, fieldbook]  
-author: YOUR NAME HERE 
----
-```  
-
-*For lab report entries:*
-
-```
----  
-layout: post  
-title: "TITLE HERE"  
-tags: [lab report, fieldbook]  
-author: YOUR NAME HERE 
----
-```  
 
 ## Composing in Markdown
 
@@ -94,7 +64,7 @@ Below I will describe the most common Markdown syntax, but for additional refere
 + The [Markdown Wikipedia page](https://en.wikipedia.org/wiki/Markdown), which includes a very handy chart of the syntax.
 + John Gruber's [introduction to Markdown](https://daringfireball.net/projects/markdown/syntax). Gruber developed the standard and knows what he's talking about!
 + This [interactive Markdown tutorial](http://www.markdowntutorial.com/), which will teach you the syntax in a few minutes.
-+ You can also download [the Markdown versions of our class website pages](https://github.com/rccordell/s19rm) (all generated directly from Markdown) or [the Markdown for this very lab](https://github.com/rccordell/s19rm/blob/master/_posts/2019-01-09-Lab1-Markdown.md) if you'd like to compare what you see in your browser with the marked-up text that created it (click the `Raw` button to see the Markdown [without GitHub's styling](https://raw.githubusercontent.com/rccordell/s19rm/master/_posts/2019-01-09-Lab1-Markdown.md)).
++ You can also download [the Markdown versions of our class website pages](https://github.com/rccordell/f19bbb).
 
 In short, in Markdown your text will not include any visible stylistic variations such as italics or bold text; Markdown is a *plain text* format. However, many Markdown Editors will be able to preview the way your documents will look like when they're styled.
 
@@ -137,3 +107,7 @@ Here are the very basics for writing in Markdown. If you use one of the editors 
 	i.e. [words you want linked in brackets and the link in parentheses following]\(http://ryancordell.org/\).   
 
 You can also create headlines of descending sizes, lists (numbered or bulleted), footnotes, block quotations, embedded images, and more. See the reference materials above for details on these other elements.
+
+
+
+ 
