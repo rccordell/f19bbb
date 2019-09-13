@@ -89,6 +89,11 @@ Prep:
 + Erin Dorney, ["6 Styles of Erasure Poetry"](https://trishhopkinson.com/2018/06/10/6-styles-of-erasure-poetry-guest-blog-post-by-erin-dorney/)
 + (Browse) [*Traces*](http://openthresholds.org/home)
 
+### Book Reports
+
++ 10/2	 Ben Centracchio
++ 10/3 Alice Schaumann
+
 ----
 
 ### Friday, 10/4 &#10087; Book Proposals Due!
@@ -103,6 +108,12 @@ Prep:
 + Zachary Petit, ["Letterpress Goes for a Hike: The Printed Walk"](https://www.printmag.com/featured/the-printed-walk-letterpress-lindsay-schmittle-gingerly-press/) (2016)
 + Beth Driscoll and Claire Squires, ["'Oh Look, a Ferry'; or the Smell of Printed Books"](https://www.theliftedbrow.com/liftedbrow/2018/10/24/oh-look-a-ferry-or-the-smell-of-paper-books-by-beth-driscoll-and-claire-squires) (2018)
 + Ricardo Dantas, ["How to Design an Awarded Letterpress Printed Book"](https://medium.com/swlh/design-process-production-of-an-awarded-letterpressed-book-733d4627966a) (2019)
+
+### Book Reports
+
++ 10/7	 Lauren Moy
++ 10/9 Elaina Murphy
++ 10/10 Stephanie Krueger
 
 -----
 
@@ -119,6 +130,11 @@ Prep:
 + Merve Emre, ["This Library Has New Books by Major Authors, but They Can’t Be Read Until 2114"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9484550810001401?auth=SAML)
 + (browse) Tom Phillips, [*A Humument*](http://www.tomphillips.co.uk/humument)
 
+### Book Reports
+
++ 10/16 Gwendolyn McManus
++ 10/17 Erica Yee
+
 ### Wednesday, 10/16 &#10087; Visit to NU Archives**
 
 -----
@@ -129,6 +145,12 @@ Prep:
 + Paul La Farge, ["The Deep Space of Digital Reading"](http://nautil.us/issue/32/space/the-deep-space-of-digital-reading) (2016)
 +  Jon Bois, [“What Football Will Look Like in the Future”](https://www.sbnation.com/a/17776-football/) (2017)
 
+### Book Reports
+
++ 10/21 Lia DeCoursey
++ 10/23 Alex Ernst
++ 10/24 Jade Fiorilla
+
 ## Week 9 &#10087; October 28, 30, 31 &#10087; E-lit II
 
 + bpNichol, ["First Screening"](http://vispo.com/bp/index.htm) (1984)
@@ -138,6 +160,12 @@ Prep:
 + Porpentine, [*With Those We Love Alive*](http://slimedaughter.com/games/twine/wtwla/)
 + Browse the *Electronic Literature Collection* [Volume 2](http://collection.eliterature.org/2/) and [Volume 3](http://collection.eliterature.org/3/) and choose one work you would like to share with the class.
 + Leonardo Flores, ["Third Generation Electronic Literature"](http://electronicbookreview.com/essay/third-generation-electronic-literature/) (2019)
+
+### Book Reports
+
++ 10/28 Boutayna Chokrane
++ 10/30 Colin Byrnes
++ 10/31 Larissa Morikawa
 
 ----
 
@@ -161,6 +189,12 @@ Prep:
     + Kim A. Brillante Knight, ["Fashioning Circuits, 2011–Present"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/05613b02-ec93-4588-98e0-36cd4336e7a0#ch26)
     + Carl Disalvo, Tom Jenkins, Jong Won (Karl) Kim, Catherine Meschia, and Craig Durkin, ["Designs for Foraging: Fruit Are Heavy, 2015–16"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/72a6c541-e5d8-4952-ba53-791a5e9f24f3#ch30)
 
+### Book Reports
+
++ 11/4	 Anson Huang
++ 11/6 Matthew Cook
++ 11/7	 Madeline Hulse
+
 ### Wednesday, 11/4 &#10087; Visit to the Snell Library 3-D Printing Studio
 
 -----
@@ -173,6 +207,10 @@ Prep:
 
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, [“Bibliocircuitry and the Design of the Alien Everyday”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
 + Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, ["Thinking as Handwork: Critical Making with Humanistic Concerns"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
+
+### Book Reports
+
++ 11/14 Olivia Taylor
 
 -----
 
