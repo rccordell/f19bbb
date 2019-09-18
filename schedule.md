@@ -75,6 +75,10 @@ Prep:
 
 ### Wednesday, 9/25 &#10087; Visit to Massachusetts Historical Society
 
+### Book Reports
+
++ 9/26	 Levi Kaplan
+
 -----
 
 ## Week 5 &#10087; September 30, October 2, 3 &#10087; Zines
