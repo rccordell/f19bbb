@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown and Github"
+title: "A Model Reflective Fieldbook Entry"
 author: rccordell
 permalink: /Markdown-and-Github/
 ---
