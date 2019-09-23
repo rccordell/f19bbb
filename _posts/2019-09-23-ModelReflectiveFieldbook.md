@@ -2,7 +2,7 @@
 layout: post
 title: "A Model Reflective Fieldbook Entry"
 author: rccordell
-permalink: /Markdown-and-Github/
+permalink: /model-fieldbook-1/
 ---
 
 With her permission, I am copying Erica Yee's first reflective fieldbook entry, which is a model of the genre. Hopefully it will be helpful to others to see her work! In particular, note the way Erica blends specific observations from our readings with elements of our work in class, as well as ideas drawn from outside of the course. 
