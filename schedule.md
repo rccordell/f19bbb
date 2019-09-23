@@ -73,8 +73,6 @@ Prep:
 + Steven Heller, ["Brooklyn In Your (Type)Face"](https://www.printmag.com/daily-heller/a-regional-typeface-from-brooklyn/) (2015)
 + Choose a font to research from the [Font Review Journal](http://fontreviewjournal.com/), [Typographica's Favorite Typefaces of 2017](https://typographica.org/features/our-favorite-typefaces-of-2017/), or the [Kern Your Enthusiasm series](http://hilobrow.com/tag/kern-enthusiasm/). Be ready to discuss it in class.
 
-### Wednesday, 9/25 &#10087; Visit to Massachusetts Historical Society
-
 ### Book Reports
 
 + 9/26	 Levi Kaplan
