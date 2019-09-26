@@ -85,7 +85,7 @@ Prep:
 
 Prep: 
 
-+ Pagan Kennedy, from *'Zine* (1995)
++ Pagan Kennedy, "Prologue," "Back to Pagan," "Pagan’s Discovered to be Seventh Partridge," and "Epilogue" from [*'Zine*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9563577830001401?auth=SAML) (1995)
 + [Zine Librarians Code of Ethics](https://zinelibraries.info/code-of-ethics/) (2015)
 + Jenna Wortham, ["Why the Internet Didn’t Kill Zines"](https://www.nytimes.com/2017/02/28/magazine/why-the-internet-didnt-kill-zines.html) (2017)
 + Erin Dorney, ["6 Styles of Erasure Poetry"](https://trishhopkinson.com/2018/06/10/6-styles-of-erasure-poetry-guest-blog-post-by-erin-dorney/)
