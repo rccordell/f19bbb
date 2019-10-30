@@ -62,7 +62,7 @@ In tracery, the example `name` is a `symbol`, and the list of names that follow 
  
 > Quoth the Raven “Nevermore.”
 
-And here's how we might do a simple substitution in Tracery. Try copying the text below (from the first `{` to the closing `}` into the [Tracery editor](http://tracery.io/editor/) and see what happens. 
+And here's how we might do a simple substitution in Tracery. Try copying the text below (from the first `{` to the closing `}` into the [Tracery editor](http://tracery.io/editor/) and see what happens. _Note: sometimes a direct copy-paste from the web into the Tracery editor works oddly. I would recommend `Paste and match style` rather than the simple `Paste` command. If you're a Mac user, the key command `SHIFT-⌘-V` will do the trick._ 
 
 ```
 {
