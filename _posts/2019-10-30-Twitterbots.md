@@ -54,7 +54,9 @@ We will be writing our Twitterbots using [Tracery](http://tracery.io/) a tool cr
 
 We will be creating a JSON file, which consists of a series of attribute-value pairs, such as this:
 
+```
 "name":["Ryan", "Evelyn", "Cadence", "Emerson", "Rorik", "Jonas", "Jude"]
+```
 
 In tracery, the example `name` is a `symbol`, and the list of names that follow it are values attached to that `symbol`. We will create symbols for each element of our poem that we wish to substitute. We will then use the reserved symbol `origin` to combine random values with existing text. I will illustrate a short Tracery "mad-libs" style substitution below, using the most famous line from Edgar Allan Poe's "The Raven." Here's the original line:
  
@@ -62,17 +64,14 @@ In tracery, the example `name` is a `symbol`, and the list of names that follow 
 
 And here's how we might do a simple substitution in Tracery. Try copying the text below (from the first `{` to the closing `}` into the [Tracery editor](http://tracery.io/editor/) and see what happens. 
 
+```
 {
-
 "noun":["cow","anvil","flower","tuba","parsley"],
-
 "past-verb":["extrapolated","devoured","hypothesized","exploded","cha-cha slid"],
-
 "interjection":["gadzooks!","zounds!","hogwash!","aaarrrggghhh!","achoo"],
-
 "origin":["#past-verb# the #noun#, #interjection#"]
-
 }
+```
 
 When you wish to call randomized content from a symbol, you simply type the name of the symbol within hashtags, as in `#noun#`. There are some basic modifiers that can be useful for building up more complex texts, as well. These are added to the end of a given symbol (within the hashtags):
 
@@ -83,18 +82,14 @@ When you wish to call randomized content from a symbol, you simply type the name
 
 How is the code below different from what we used before? Copy and paste it into Tracery to see:
 
+```
 {
-
 "noun":["cow","anvil","flower","tuba","parsley"],
-
 "verb":["extrapolate","devour","hypothesize","explode","cha-cha slide"],
-
 "interjection":["gadzooks!","zounds!","hogwash!","aaarrrggghhh!","achoo"],
-
 "origin":["#verb.ed.capitalize# the #noun.s#, #interjection#"]
-
 }
-
+```
 
 Those are the basics, though Tracery can get much more complicated from these building blocks alone. Tracery's symbols can be nested (lists within lists!) and combined with non-textual elements. In addition, Tracery can [interact with HTML, SVG graphics, and Javascript](http://www.galaxykate.com/pdfs/galaxykate-zine-tracery.pdf) to extend its capabilities. Check out the different example code available in the pull-down menu of the Tracery editor to explore some of these possibilities. Folks have even written [Tracery-Twine integrations](https://github.com/mrfb/twinecery) if you wanted to combine last week's activity with this week's. For those with some programming experience, Tracery has also been implemented in a number of common languages: check out the bottom of [its homepage](http://tracery.io/) to see if your favorite is there.
 
