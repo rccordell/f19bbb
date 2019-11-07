@@ -151,7 +151,6 @@ Prep:
 
 + 10/21 Lia DeCoursey
 + 10/23 Alex Ernst
-+ 10/24 Jade Fiorilla
 
 ## Week 9 &#10087; October 28, 30, 31 &#10087; E-lit II
 
@@ -219,6 +218,10 @@ Prep:
 ## Week 12 &#10087; November 18, 20, 21 &#10087; Open
 
 Studio Time
+
+### Book Report
+
++ 11/18 Jade Fiorilla
 
 -----
 
