@@ -206,7 +206,7 @@ Prep:
 
 ## Week 11 &#10087; November 13 & 14 &#10087; Fabrication II: Paper Circuits
 
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, [“Bibliocircuitry and the Design of the Alien Everyday”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, [“Bibliocircuitry and the Design of the Alien Everyday”](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9670593190001401?auth=SAML) (2013)
 + Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto, ["Thinking as Handwork: Critical Making with Humanistic Concerns"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#ch16) (2017)
 
 ### Book Reports
