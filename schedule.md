@@ -242,3 +242,25 @@ Studio Time
 ## Week 14 &#10087; December 2 & 4 &#10087; Final Exercises
 
 Final project presentations
+
+### Monday, December 2
+
++ Anson
++ Erica
++ Lauren
++ Jade
++ Olivia
++ Ben/Matt
++ Alice
++ Colin
+
+### Wednesday, December 4
+
++ Boutayna
++ Stephanie
++ Gwen
++ Alex
++ Levi
++ Maddy Van
++ Larissa
++ Elaina
